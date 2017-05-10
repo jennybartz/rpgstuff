@@ -1,5 +1,8 @@
 
 #post_meta_1643993 {
-	background-color: red;
+	background-color: red !important;
 }
 
+.mary--intro-post {
+	background: red;
+}
