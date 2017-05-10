@@ -1,7 +1,22 @@
 
-#edited_by_1643993 {
+#post_meta_1643993,
+#post_meta_1643994,
+#post_meta_1643995 {
 	display: none !important;
 }
+
+#post_meta_1643993 smalltext,
+#post_meta_1643994 smalltext,
+#post_meta_1643995 smalltext {
+	display: none !important;
+}
+
+#post_meta_1643993 hr,
+#post_meta_1643994 hr,
+#post_meta_1643995 hr {
+	display: none !important;
+}
+
 
 .mary--intro-post {
 	background: red;
