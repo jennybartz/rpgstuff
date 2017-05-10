@@ -11,10 +11,32 @@
 	display: none !important;
 }
 
+
+
 #post_1643993 hr,
 #post_1643994 hr,
 #post_1643995 hr {
 	display: none !important;
+}
+div#pid_1643993,
+div#pid_1643994,
+div#pid_1643995{ 
+	position: relative;
+    padding: 0;
+    margin: 0;
+    width: 500px;
+    background: white;
+  }
+div#pid_1643993::after,
+div#pid_1643994::after,
+div#pid_1643995::after {
+    content: 'jkfjksfkknfsf';
+    height: 54px;
+    width: 100%;
+    position: absolute;
+    background: white;
+    text-align: center;
+    border-top: 1px solid #efefef;
 }
 
 
